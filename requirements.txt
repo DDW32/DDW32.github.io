@@ -1,4 +1,4 @@
-Flask==2.0.2
+Flask==3.0.3
 gunicorn==20.1.0
-ultralytics==8.0.0  # Ganti dengan versi yang sesuai
-opencv-python-headless==4.5.5.64
+ultralytics==8.2.39
+opencv-python-headless==4.10.0.84
